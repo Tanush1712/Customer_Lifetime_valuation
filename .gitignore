@@ -1,0 +1,16 @@
+# Python environments and bytecode
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter's automatic backup files
+.ipynb_checkpoints/
+
+# Temporary and generated local material
+tmp/
+output/
+
+# Raw/source-data copies (the dashboard uses data/clean/df_clean.csv)
+data/Raw/
+notebooks/online_retail.xlsx
