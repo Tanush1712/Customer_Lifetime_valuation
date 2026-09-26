@@ -11,6 +11,10 @@ __pycache__/
 tmp/
 output/
 
+# Local project documentation
+Customer_Future_CLV_Prediction_Project_Documentation.pdf
+Customer_Future_CLV_Viva_Questions_and_Answers.pdf
+
 # Raw/source-data copies (the dashboard uses data/clean/df_clean.csv)
 data/Raw/
 notebooks/online_retail.xlsx
